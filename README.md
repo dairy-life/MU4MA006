@@ -32,15 +32,6 @@ La soutenance orale représentera une très large moitié de la note finale.
 
 L'objectif de ce TP0 est d'étudier les prérequis de programmation nécessaires à la bonne marche des TP de cette UE. D'ici le prochain TP, il faut impérativement savoir.
 
-Les prérequis en programmation font référence aux connaissances fondamentales, 
-aux compétences ou aux outils que les étudiants ou les participants 
-doivent avoir ou avec lesquels ils doivent être familiers avant de 
-pouvoir participer avec succès à une classe ou 
-à une activité pratique liée à la programmation. 
-Ces prérequis sont essentiels pour garantir que les participants peuvent 
-comprendre et appliquer efficacement les concepts et 
-les techniques abordés lors des sessions pratiques.
-
 ### TP1
 
 Schémas numériques pour un problème de Cauchy. Il faut impérativement savoir:
